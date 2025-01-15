@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @microbugaboo47
+- 👋 Hi, I’m vongo
 - 👀 I’m interested in deving.. duh
-- 🌱 I’m currently learning html/java/css
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me my discord server
+- 🌱 I’m currently learning html/java/css and godot
+- 📫 How to reach me: mail to the address 14- HA YOU THOUGHT YOU WERE GETTING MY ADDRESS LOL NOOOO
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: idk
+- ⚡ Fun fact: i do coding stuffs
 
 <!---
 microbugaboo47/microbugaboo47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
