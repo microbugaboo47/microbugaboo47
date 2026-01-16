@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning html/java/css and godot
 - 📫 How to reach me: mail to the address 14- HA YOU THOUGHT YOU WERE GETTING MY ADDRESS LOL NOOOO
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: i do coding stuffs
+- ⚡ Fun fact: im a skateboarder
 
 <!---
 microbugaboo47/microbugaboo47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
